@@ -1,2 +1,2 @@
-# git-practice
-practicing github
+Name: Alex
+Git: alex415
